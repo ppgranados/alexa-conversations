@@ -1,0 +1,74 @@
+{
+  "mexico-normal-romantic": {
+    "artist": "Los Ángeles azules",
+    "song": "Entrega de amor"
+  },
+  "mexico-normal-energetic": {
+    "artist": "Los Ángeles azules",
+    "song": "17 años"
+  },
+  "mexico-villera-romantic": {
+    "artist": "Cumbia Zero",
+    "song": "Ya pasará"
+  },
+  "mexico-villera-energetic": {
+    "artist": "Los fumancheros",
+    "song": "Yo quiero bailar"
+  },
+  "mexico-vallenato-romantic": {
+    "artist": "Celso Piña",
+    "song": "Aunque no sea conmigo"
+  },
+  "mexico-vallenato-energetic": {
+    "artist": "Celso Piña",
+    "song": "Cumbia sobre el río"
+  },
+  "colombia-normal-romantic": {
+    "artist": "Margarita the Goddess of the Cumbia",
+    "song": "Que bello"
+  },
+  "colombia-normal-energetic": {
+    "artist": "Margarita the Goddess of the Cumbia",
+    "song": "Amor de mis amores"
+  },
+  "colombia-villera-romantic": {
+    "artist": "Merka Colombiana",
+    "song": "Te perdí"
+  },
+  "colombia-villera-energetic": {
+    "artist": "Bandas de Barrio",
+    "song": "Danza Colombiana"
+  },
+  "colombia-vallenato-romantic": {
+    "artist": "Carlos Vives",
+    "song": "La bicicleta"
+  },
+  "colombia-vallenato-energetic": {
+    "artist": "Carlos Vives",
+    "song": "La gota fría"
+  },
+  "argentina-normal-romantic": {
+    "artist": "Amar azul",
+    "song": "Yo me enamoré"
+  },
+  "argentina-normal-energetic": {
+    "artist": "Amar azul",
+    "song": "No quiero dormir"
+  },
+  "argentina-villera-romantic": {
+    "artist": "Damas gratis",
+    "song": "Me muero de amor"
+  },
+  "argentina-villera-energetic": {
+    "artist": "Damas gratis",
+    "song": "No te creas tan importante"
+  },
+  "argentina-vallenato-romantic": {
+    "artist": "Los Wawanco",
+    "song": "No te vayas corazón"
+  },
+  "argentina-vallenato-energetic": {
+    "artist": "Los Wawanco",
+    "song": "La banda está borracha"
+  }
+}
