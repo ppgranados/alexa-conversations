@@ -6,15 +6,15 @@ This repository contains an small introduction to Alexa Conversations.
 We will build the Cumbiones locos skill that recommends a cumbia based on the user's preferences about mood, artist country and type of cumbia.
 
 ## Dialogs:
-| Speaker | Speech                                                       | Dialog Act        |
-| ------- |--------------------------------------------------------------| -----------------:|
-| User    | I want cumbias from `Mexico`                                 | Invoke API        |
-| Alexa   | Do you prefer vallenato, villeras or normal cumbias?         | Request arguments |
-| User    | Normal                                                       | Inform            |
-| Alexa   | Do you want romantic or energetic cumbias?                   | Request arguments |
-| User    | Energetic                                                    | Inform            |
-| Alexa   | Ok. What about this cumbion? 17 años from los Ángeles azules | Api Success       |
-| User    | What about some villeras?                                    | Invoke API        |
+| Speaker | Speech                                                                     | Dialog Act        |
+| ------- |----------------------------------------------------------------------------| -----------------:|
+| User    | I want cumbias from `Mexico`                                               | Invoke API        |
+| Alexa   | Do you prefer vallenato, villeras or normal cumbias?                       | Request arguments |
+| User    | `Normal`                                                                   | Inform            |
+| Alexa   | Do you want romantic or energetic cumbias?                                 | Request arguments |
+| User    | `Energetic`                                                                | Inform            |
+| Alexa   | Ok. What about this cumbion? 17 años from los Ángeles azules               | Api Success       |
+| User    | What about some `villeras`?                                                | Invoke API        |
 | Alexa   | For that kind of cumbia I recommend, Yo quiero bailar from los Fumancheros | Api Success       |
 
 ## Slot Types:
